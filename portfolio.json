@@ -1,7 +1,7 @@
 {
   "name": "Abhinav Jindal",
   "label": "Sr. Data Scientist & AI Engineer",
-  "image_path": "img/default-image.png",
+  "image_path": "img/profile.jpg",
   "contact": {
     "email": "abhinav.jindal912@gmail.com",
     "phone": "+44-7880315140 | +91-7009697985",
@@ -80,9 +80,9 @@
       ]
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "title": "Health Index - England (2021)",
+      "summary": "A cloud deployed StreamLit application that provides a health index for England based on various health indicators. The application allows users to visualize and analyze health data across different regions, providing insights into public health trends and disparities.",
+      "url": "https://health-index-test1.streamlit.app/",
       "highlights": [
         "First Highlight of Project Two",
         "Second Highlight of Project Two",
