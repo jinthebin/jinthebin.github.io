@@ -56,9 +56,9 @@
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "Natural Language Processing & Text Analytics",
+      "summary": "Demo web-application built using Flask, and deployed on Render. The application uses open-source YELP reviews, and performs various text analytics such as sentiment analysis, named-entity recognition, and topic modeling. The application provides an interactive interface for users to explore and analyze the text data, and visualize the results of the text analytics.",
+      "url": "https://pres-nlp.onrender.com/",
       "highlights": [
         "First Highlight of Project One",
         "Second Highlight of Project One",
