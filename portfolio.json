@@ -33,11 +33,18 @@
       "url": "https://nihr.ac.uk",
       "start_date": "28/03/2023",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "Data Science lead for the Research Delivery Network - I develop data science and engineering solutions as well as lead on web-application development using FOSS.",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Co-lead of NIHR Data Science Special Interest Group – delivered 11 seminars and enabled collaboration in data science",
+        "Independently developed and deployed research tagging solution using ML classifier with HRCS and ICD-10 tags",
+        "Deployed Streamlit webapp for semantic search & RAG and qualitative analysis of text using NLP (LLMs, POS, TF-IDF)",
+        "Leading the knowledge management & mobilization project for data engineering, entity linkage, metadata management using Docker-containerized open-source solutions like OpenMetadata, dbt and bespoke python scripts for knowledge graphs",
+        "Developed & deployed secure Flask web-application featuring natural language processing pipelines for free-text analysis using Spacy, Tensor for topic modeling, named-entity recognition, entity linkage, sentiment analysis",
+        "Development and enhancements of Associate PI scheme Qliksense dashboards; Workforce dashboards on Looker Studio",
+        "Development of data warehouse & ETL pipelines for Open Data Platform to disseminate information on research delivery",
+        "Addressing data queries and reporting around clinical research by the DHSC, FOI and the parliament",
+        "Pivotal role in cloud migration of reporting to Qlik Cloud & assessment of Apache Spark & Iceberg for data lake"
+
       ]
     },
     {
@@ -60,9 +67,10 @@
       "summary": "Demo web-application built using Flask, and deployed on Render. The application uses open-source YELP reviews, and performs various text analytics such as sentiment analysis, named-entity recognition, and topic modeling. The application provides an interactive interface for users to explore and analyze the text data, and visualize the results of the text analytics.",
       "url": "https://pres-nlp.onrender.com/",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "Uses BootStrap - modular web application with multiple interactive pages - self-hosted",
+        "Secure website with user authentication and authorization using Flask-Login",
+        "Gives an overview of industry leading NLP techniques and their applications in text analytics",
+        "Uses open-source YELP reviews dataset for text analytics"
       ],
       "images": [
         {
@@ -106,11 +114,11 @@
   ],
   "volunteer_experience": [
     {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
+      "organization": "Samaritans",
+      "position": "Volunteer",
+      "url": "https://samaritans.org",
+      "start_date": " September 2025",
+      "end_date": "July 2026",
       "summary": "Short summary about present volunteer work",
       "highlights": [
         "First Duty of Current Organization",
@@ -171,7 +179,7 @@
   ],
   "interests": [
     {
-      "name": "My First Hobby",
+      "name": "Endurance cycling",
       "summary": "Short summary about my first Hobby",
       "images": [
         {
@@ -185,7 +193,7 @@
       ]
     },
     {
-      "name": "My Second Hobby",
+      "name": "Photography",
       "summary": "Short summary about my second hobby",
       "images": [
         {
@@ -205,8 +213,8 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
+      "language": "Hindi",
+      "fluency": "Native speaker"
     }
   ],
   "references": [
